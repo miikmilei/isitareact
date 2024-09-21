@@ -85,7 +85,7 @@ function App() {
         </Typography>
         <h1>Mi amorcito jsjs^^</h1>
         <Typography>Amo poner tu nombre en las notas de codigo</Typography>
-        <img src='src\img.png' width={300}></img>
+        <img src='https://i.imgur.com/hsQOzxK.png' width={300}></img>
         <Typography>Estas fueron notas de las practicas antes del torneo el cual te dedique mi amorcito </Typography>
         <h1>Mi amorcito, compre un regalito para ti</h1>
         </center>
